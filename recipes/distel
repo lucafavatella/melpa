@@ -1,0 +1,5 @@
+(distel
+ :fetcher github
+ :repo "lucafavatella/distel"
+ :commit "a1cf3b0"
+ :files ("elisp/*.el"))
